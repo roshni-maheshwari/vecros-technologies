@@ -1,0 +1,43 @@
+.award-winning{
+    background-color: #2a2d30;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 50px;
+    padding-bottom: 100px;
+
+    &__heading{
+        text-align: center;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 700;
+        margin-bottom: 100px;
+    }
+    &__image{
+        width: 110px;
+    }
+    .sub-heading{
+        color: #fff;
+        font-weight: 500;
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+    &__link{
+        background-color: #3898ec;
+        color: #fff;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
+
+        &:hover{
+            background-color: #2678c0;
+            color: #fff;
+        }
+    }
+    &__image-1{
+        width: 170px;
+        height: 75px;
+        margin-bottom: 25px;
+    }
+   
+}

@@ -1,0 +1,29 @@
+.about{
+    .row{
+        margin-left: 150px;
+        margin-right: 150px;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .main-heading{
+        color: #333;
+        margin-bottom: 10px;
+        font-size: 38px;
+        font-weight: 700;
+    }
+    .sub-heading{
+        padding-bottom: 10px;
+        color: #1f6fff;
+        font-size: 24px;
+        font-weight: 700;
+    }
+    .text{
+        font-size: 15px;
+        color: #333;
+        margin-bottom: 10px;
+    }
+    &-image{
+        width: 354px;
+        margin-top: 40px;
+    }
+}

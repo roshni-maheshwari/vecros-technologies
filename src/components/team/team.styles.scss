@@ -1,0 +1,85 @@
+.team{
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+    padding-right: 150px;
+
+    &__text-box{
+        text-align: center;
+        color: #000;
+        margin-bottom: 50px;
+    }
+    &__heading{
+        font-size: 50px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+    &__text{
+        font-size: 20px;
+        font-weight: 400;
+    }
+    &__background{
+        
+        background-position: center;
+        background-size:cover ;
+        background-image: url("https://uploads-ssl.webflow.com/5fc5d90a8dee63ce71c3ab53/5fc65b73dc4cb65b14d016a6_18077318_1858612617711924_5779804804304362897_o.jpg");
+        
+        &-1{
+            background-position: center;
+            background-size: cover;
+            background-image: url("https://uploads-ssl.webflow.com/5fc5d90a8dee63ce71c3ab53/5fc65c5910e3c77d45ef1e81_78165174_1991932584285265_5241668943776579584_o.jpg");
+        
+            .social-icon{
+                height: 20px;
+            }
+        }
+
+
+        &-container{
+            padding: 40px;
+            font-size: 15px;
+            color: #fff;
+        }
+        &-title{
+            font-weight: 700;
+            font-size: 25px;
+        }
+        &-text{
+            margin-bottom: 20px;
+        }
+        .social-button{
+            width: auto;
+            height: auto;
+            margin-top: 20px;
+            margin-right: 6px;
+            padding-top: 9px;
+            text-align: center;
+            cursor: pointer;
+        }
+        .social-icon{
+            height: 20px;
+        }
+
+    }
+    &-member{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        margin-top: 30px;
+        float: left;
+        margin-bottom: 30px;
+    }
+    &-member-details{
+        float: right;
+        font-size: 16px;
+        margin-top: 30px;
+        text-align: center;
+    }
+    &-member__name{
+        font-weight: 700;
+    }
+    &-member__about{
+        font-weight: 400;
+    }
+}
