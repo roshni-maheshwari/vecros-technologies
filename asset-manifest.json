@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/vecros-technologies/static/css/main.49a280b6.chunk.css",
-    "main.js": "/vecros-technologies/static/js/main.262c3adf.chunk.js",
-    "main.js.map": "/vecros-technologies/static/js/main.262c3adf.chunk.js.map",
+    "main.js": "/vecros-technologies/static/js/main.e454c89e.chunk.js",
+    "main.js.map": "/vecros-technologies/static/js/main.e454c89e.chunk.js.map",
     "runtime-main.js": "/vecros-technologies/static/js/runtime-main.bca13c23.js",
     "runtime-main.js.map": "/vecros-technologies/static/js/runtime-main.bca13c23.js.map",
     "static/css/2.80588387.chunk.css": "/vecros-technologies/static/css/2.80588387.chunk.css",
-    "static/js/2.fd93674a.chunk.js": "/vecros-technologies/static/js/2.fd93674a.chunk.js",
-    "static/js/2.fd93674a.chunk.js.map": "/vecros-technologies/static/js/2.fd93674a.chunk.js.map",
+    "static/js/2.693c2d6d.chunk.js": "/vecros-technologies/static/js/2.693c2d6d.chunk.js",
+    "static/js/2.693c2d6d.chunk.js.map": "/vecros-technologies/static/js/2.693c2d6d.chunk.js.map",
     "index.html": "/vecros-technologies/index.html",
     "static/css/2.80588387.chunk.css.map": "/vecros-technologies/static/css/2.80588387.chunk.css.map",
     "static/css/main.49a280b6.chunk.css.map": "/vecros-technologies/static/css/main.49a280b6.chunk.css.map",
-    "static/js/2.fd93674a.chunk.js.LICENSE.txt": "/vecros-technologies/static/js/2.fd93674a.chunk.js.LICENSE.txt",
+    "static/js/2.693c2d6d.chunk.js.LICENSE.txt": "/vecros-technologies/static/js/2.693c2d6d.chunk.js.LICENSE.txt",
     "static/media/play.bdf21770.png": "/vecros-technologies/static/media/play.bdf21770.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bca13c23.js",
     "static/css/2.80588387.chunk.css",
-    "static/js/2.fd93674a.chunk.js",
+    "static/js/2.693c2d6d.chunk.js",
     "static/css/main.49a280b6.chunk.css",
-    "static/js/main.262c3adf.chunk.js"
+    "static/js/main.e454c89e.chunk.js"
   ]
 }
